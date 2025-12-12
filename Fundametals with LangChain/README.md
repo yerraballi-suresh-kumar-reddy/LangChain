@@ -6,6 +6,11 @@ It includes hands-on examples, quick notes, and small experiments focused mainly
 🚀 What’s Included
 🔹 Prompting Basics
 
+
+🔹 Installation & Setup
+
+Simple install commands for Python and Node.js packages needed to run the examples.
+
 A quick look at common prompting techniques like zero-shot, few-shot, and step-by-step prompting.
 
 🔹 LangChain Overview
@@ -20,6 +25,4 @@ Examples on how the older Bedrock interface works, its limitations, and how to c
 
 Updated examples using the newer Bedrock API with better support for streaming and model capabilities.
 
-🔹 Installation & Setup
-
-Simple install commands for Python and Node.js packages needed to run the examples.
+🔹 LCEL, batch, stream, async, etc
