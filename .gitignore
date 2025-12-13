@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Python virtual environment
+myenv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+LLM_Fundamentals_with_LangChain.ipynb
+
+test.py
+
+package.json
+
+package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
